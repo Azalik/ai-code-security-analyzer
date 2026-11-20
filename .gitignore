@@ -1,0 +1,13 @@
+# Окружение и секреты
+.env
+venv/
+.venv/
+env/
+
+# Кэш Python и IDE
+__pycache__/
+*.py[cod]
+*$py.class
+.vscode/
+.idea/
+.DS_Store
